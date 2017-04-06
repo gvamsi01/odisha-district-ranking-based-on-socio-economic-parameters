@@ -43,3 +43,6 @@ http://www.opepa.in/SchoolReports/ManagementwiseSchool.aspx
 
 **orrisa district analysis.xlsx**  contains ranking of individual districts based on individual socio economic parameters 
 
+## Contact
+
+For any queries contact **vamsi grandhi** on gvamsi01@gmail.com | +65-87329144
