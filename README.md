@@ -39,7 +39,7 @@ http://www.opepa.in/SchoolReports/ManagementwiseSchool.aspx
 
 ## File description 
 
-Odisha district analysis documentation.pdf contains detailed description in how data has been used in ranking individual districts 
+**Odisha district analysis documentation.pdf** contains detailed description in how data has been used in ranking individual districts 
 
-orrisa district analysis.xlsx contains ranking of individual districts based on individual socio economic parameters 
+**orrisa district analysis.xlsx**  contains ranking of individual districts based on individual socio economic parameters 
 
